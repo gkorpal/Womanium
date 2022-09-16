@@ -9,7 +9,7 @@ The full schedule can be found [here](Womanium%20Quantum%20-%20Program%20Schedul
 The lecture videos can be found [here](https://www.youtube.com/playlist?list=PL_wGNAk5B0pWJqVoMwVVeY1gAFctx3aWH).
 
 
-## Certificate conditions:
+## Certificate conditions
 * Pass each Canvas quiz with a passing score >50%
 * Have an average quiz score of >70% for the entire module
 * Complete the module by Aug 7
